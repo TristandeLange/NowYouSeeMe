@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Fresh Scene
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 80f0bf4a7a044f54db0a56ec2d610cba, type: 3}
+  templateName: 
+  description: This provides a basic setup for the NYSM Scene, providing a cinemachine,
+    camera object, player, and exit door.
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2567715522278945521, guid: 1a0fd35bf7d1958429b9ad10f5dc09c0, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2162770017648271045, guid: 41ac69c361bad3d43bd951736063162a, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 83555a8596860814eaea382f1481d58e, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 6497984753126588433, guid: d4218bc49d006d14092bc602504b611a, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 7200683563925046019, guid: 12932809498129741b8939756bc6a707, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 4668619710594421481, guid: d1d74b7ae5f6c6843beca2c1e4985b37, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 5f2a108eb023faf43a809979fd3d38f2, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 6200000, guid: ad68878f9f296034da3276376a538f1b, type: 2}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 0
